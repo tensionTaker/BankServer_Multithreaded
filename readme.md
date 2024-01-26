@@ -1,4 +1,4 @@
-#How to compile 
+# How to compile 
 for client
 gcc Client.c -o client
 for server 
@@ -33,7 +33,7 @@ Gives total amount in your bank account initialised by 5000
 
 
 
-#Understanding Implementation
+# Understanding Implementation
 
 Implemented bank server with multi threading hence allowing multiple client to connect to bank server at same time and allowing following task to execute
 1 Transfer – T B 500
